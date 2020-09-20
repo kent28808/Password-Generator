@@ -1,21 +1,23 @@
 # Password-Generator
-Using Bootstrap v4.5.2, I created my first responsive portfolio website!
+Using functions, arrays and strings, I created a random password generator.
 
 ## Description
 
-This is my second project, where i was tasked with creating my own personal responsive portfolio website.  The pages created were "contact.html", "index.html", and "portfolio.html".  These are all functional/responsive pages that were built using Bootstrap components and grid system, that will display correctly on any device screen that is using Google Chrome as a browser.  A consistent Navbar and Footer was added to each section and semantic html was incorporated into each section of code where applicable. 
-
-## Features
+This is my third project, where i was tasked with creating a random password generator.  The password generator creates a random, secure password for the user.  
+The generate button, will send the user a series of prompts and confirms.  Once the user enters the required criteria, a random password will be generated based on the criteria entered.
 
 
 ## Built With
 
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [CSS](https://www.w3schools.com/css/)
 * [Bootstrap](https://getbootstrap.com/)
+* [JS](https://www.w3schools.com/js/)
+
 
 ## Deployed Link
 
-* [Deployed link](https://kent28808.github.io/Responsive-Portfolio/)
+* [Deployed link](https://kent28808.github.io/Password-Generator/)
 
 
 ## Authors
@@ -51,4 +53,4 @@ SOFTWARE.
 
 ## Acknowledgments
 
-* Hats off to instructional staff and Bootstrap v4.5.2.
+* Hats off to instructional staff and Javascript.

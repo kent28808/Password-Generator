@@ -10,6 +10,19 @@ function writePassword() {
 
 }
 
+function generatePassword(){
+  
+  var characters = "0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!@#$%^&*()_+?<>:{}[]";
+  // greater than 8 and less than 129
+  var passwordLength = ""
+
+  for (var i=0; i<passwordLength; i++){
+    var randomnumber = Math.floor(Math.random() * characters.length);
+    password += characters.substring(randomNumber,+1);
+  }
+
+}
+
 // link button to alerts
 
 // alert 1-How many characters would you like your password to contain? (08-128)
